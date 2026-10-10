@@ -41,3 +41,6 @@ The Arduino Uno R3 uses the ATmega328P microcontroller, which includes a CPU, me
 ## Next Lesson
 
 Lesson 02 — Electricity, voltage, current, resistance, and GPIO.
+
+
+
