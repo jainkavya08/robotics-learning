@@ -1,5 +1,11 @@
 # Lesson 01 — Arduino Basics
 
+> # SketchNotes Available At : 
+>
+> https://www.tldraw.com/f/mp8TWOuJ5-_LH_xzlSmum?d=v-188.-967.3613.1904.page
+
+
+
 ## Objective
 
 Understand the Arduino Uno, its microcontroller, GPIO pins, and basic program execution.
@@ -41,6 +47,12 @@ The Arduino Uno R3 uses the ATmega328P microcontroller, which includes a CPU, me
 ## Next Lesson
 
 Lesson 02 — Electricity, voltage, current, resistance, and GPIO.
+
+
+
+
+
+
 
 
 
