@@ -1,5 +1,9 @@
 # Lesson 02: Electricity, Resistance & GPIO
 
+> # SketchNotes Available At : 
+>
+> https://www.tldraw.com/f/mp8TWOuJ5-_LH_xzlSmum?d=v0.360.1920.1012.BNqS6nrol5yIGMW8zBGIF
+
 ## Objective
 
 Understand voltage, current, resistance, Ohm's law, and how a resistor controls LED current.
