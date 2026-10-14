@@ -1,5 +1,10 @@
 # Lesson 03: Pushbuttons, Digital Inputs & Debouncing
 
+> # SketchNotes Available At : 
+> https://www.tldraw.com/f/mp8TWOuJ5-_LH_xzlSmum?d=v0.0.1920.1012.-J7B2vNUF_G3J7OsTaVpC
+
+
+
 ## Objective
 
 Learn how to read pushbutton inputs using an Arduino Uno, control an LED based on button presses, detect state changes, implement software debouncing, and count button presses using the Serial Monitor.
